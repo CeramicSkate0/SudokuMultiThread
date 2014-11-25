@@ -1,0 +1,6 @@
+c:\users\payton\documents\visual studio 2013\Projects\JamesGarrardThreadsProject\JamesGarrardThreadsProject\bin\Debug\JamesGarrardThreadsProject.exe.config
+c:\users\payton\documents\visual studio 2013\Projects\JamesGarrardThreadsProject\JamesGarrardThreadsProject\obj\Debug\JamesGarrardThreadsProject.csprojResolveAssemblyReference.cache
+c:\users\payton\documents\visual studio 2013\Projects\JamesGarrardThreadsProject\JamesGarrardThreadsProject\bin\Debug\JamesGarrardThreadsProject.exe
+c:\users\payton\documents\visual studio 2013\Projects\JamesGarrardThreadsProject\JamesGarrardThreadsProject\bin\Debug\JamesGarrardThreadsProject.pdb
+c:\users\payton\documents\visual studio 2013\Projects\JamesGarrardThreadsProject\JamesGarrardThreadsProject\obj\Debug\JamesGarrardThreadsProject.exe
+c:\users\payton\documents\visual studio 2013\Projects\JamesGarrardThreadsProject\JamesGarrardThreadsProject\obj\Debug\JamesGarrardThreadsProject.pdb
